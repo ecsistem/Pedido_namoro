@@ -1,6 +1,6 @@
 
     function showMessage() {
-  alert("Prontinho agora estamos namorando, já estou gerando o nosso contranto de namoro, aguarde alguns segundo e clique em download");
+  alert("Prontinho agora estamos namorando, já estou gerando o nosso contrato de namoro, aguarde alguns segundo e clique em download");
   const name = "Edson M. da Costa"
   //const partnerName = prompt("Qual é o seu nome?");
   const partnerName = "Carla Furtado Carrera"
