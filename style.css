@@ -2,3 +2,24 @@ html, body {
   height: 100%;
   width: 100%;
 }
+.button-yes {
+      background-color: #3CB371;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 18px;
+      border-radius: 4px;
+    }
+    .button-no {
+      background-color: #FF5733;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 18px;
+      border-radius: 4px;
+      position: absolute;
+      left: 50%;   
+      top: 80%;
+      
+      transform: translate(-50%, -50%);
+    }
